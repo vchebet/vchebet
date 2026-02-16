@@ -1,4 +1,4 @@
-###Hi, I’m Valary 👋  
+### Hi, I’m Valary 👋  
 
 Part-time debugger, full-time problem solver 💻  
 MERN stack developer in training, turning coffee into clean code.  
